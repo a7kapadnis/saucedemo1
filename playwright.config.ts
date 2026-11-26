@@ -56,14 +56,14 @@ export default defineConfig({
         storageState: 'playwright/.auth/auth.json',
       },
     },
-    {
+{
   name: 'saucedemo',
 
   testMatch: '**/saucedemo.spec.ts',
 
   use: {
     ...devices['Desktop Chrome'],
-    headless: false,
+    headless: true,
     storageState: {
       cookies: [],
       origins: [],
