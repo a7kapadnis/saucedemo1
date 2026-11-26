@@ -24,7 +24,7 @@ export default defineConfig({
   ],
 
   use: {
-     headless: false,
+     headless: true,
     baseURL: process.env.BASE_URL,
     screenshot: 'only-on-failure',
     trace: 'on',
