@@ -1,0 +1,23 @@
+[
+    {
+        "email":"testbird169@gmail.com ",
+        "password":"Testbird@169",
+        "expected result" :"valid"
+    },
+    {
+        "email":"abcd@ymail.in",
+        "password":"password",
+        "expected result":"Invalid"
+    },
+    {
+        "email":"",
+        "password":"",
+        "expected result":"Invalid"
+    },
+    {
+        "email":"   ",
+        "password":"  ",
+        "expected result":"Invalid"
+    }
+    
+]

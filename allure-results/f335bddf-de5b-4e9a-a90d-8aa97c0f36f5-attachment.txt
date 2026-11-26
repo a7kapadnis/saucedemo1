@@ -1,0 +1,1 @@
+Login successful. Current URL: https://www.kapruka.com/shops/customerAccounts/accountView.jsp

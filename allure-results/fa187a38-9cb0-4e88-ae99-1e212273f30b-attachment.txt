@@ -1,0 +1,37 @@
+Last name: Smith
+Email: john.smith@company.com
+{
+  lastName: 'Smith',
+  email: 'john.smith@company.com',
+  Email: 'john.smith@company.com'
+}
+{
+  lastName: 'Johnson',
+  email: 'sarah.j@company.com',
+  Email: 'sarah.j@company.com'
+}
+{
+  lastName: 'Williams',
+  email: 'm.williams@company.com',
+  Email: 'm.williams@company.com'
+}
+{
+  lastName: 'Brown',
+  email: 'emily.brown@company.com',
+  Email: 'emily.brown@company.com'
+}
+{
+  lastName: 'Jones',
+  email: 'd.jones@company.com',
+  Email: 'd.jones@company.com'
+}
+Last name: Smith
+Email: john.smith@company.com
+Last name: Johnson
+Email: sarah.j@company.com
+Last name: Williams
+Email: m.williams@company.com
+Last name: Brown
+Email: emily.brown@company.com
+Last name: Jones
+Email: d.jones@company.com

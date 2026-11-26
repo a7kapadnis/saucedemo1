@@ -1,0 +1,7 @@
+Last name: Johnson
+Email: sarah.j@company.com
+{ lastName: 'Smith', email: 'john.smith@company.com' }
+{ lastName: 'Johnson', email: 'sarah.j@company.com' }
+{ lastName: 'Williams', email: 'm.williams@company.com' }
+{ lastName: 'Brown', email: 'emily.brown@company.com' }
+{ lastName: 'Jones', email: 'd.jones@company.com' }
