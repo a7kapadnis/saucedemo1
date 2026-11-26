@@ -63,7 +63,7 @@ export default defineConfig({
 
   use: {
     ...devices['Desktop Chrome'],
-    headless: true,
+  
     storageState: {
       cookies: [],
       origins: [],
